@@ -99,6 +99,40 @@ The result is a set of portraits that feel authentic to Escape from Tarkov while
 
 ---
 
+# Bunus Traders
+
+---
+
+## Lotus
+
+![Lotus](https://i.imgur.com/CQ7LT53.jpeg)
+
+---
+
+## Euphoria
+
+![Euphoria](https://i.imgur.com/duFDzoD.jpeg)
+
+---
+
+## Scorpion
+
+![scorpion](https://i.imgur.com/2YAnimN.jpeg)
+
+---
+
+## Couturier
+
+![Couturier](https://i.imgur.com/fF0Koow.jpeg)
+
+---
+
+## Artem
+
+![Artem](https://i.imgur.com/qwwHKqF.jpeg)
+
+---
+
 ## Compatibility
 
 - Compatible with all SPT 4.0.x versions
@@ -111,11 +145,13 @@ The result is a set of portraits that feel authentic to Escape from Tarkov while
 
 ## Installation
 
-1. Download the latest release.
+1. Download the latest release
 2. Extract the archive.
-3. Copy the files to your SPT installation.
-4. Launch the game.
+3. Copy the files to your SPT installation folder
+4. Open the SPT launcher, go to **Settings** and click **Clean Temp Files** (this forces the game to reload the new trader avatars).
+5. Launch the game.
 
+> **⚠️ Important:** The `Clean Temp Files` step is required for the new avatars to appear. If you don't do it, you may still see the default images.
 ---
 
 ## Credits
