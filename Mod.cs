@@ -39,7 +39,7 @@ public class Mod(DatabaseService _db, ImageRouter _imageRouter) : IOnLoad
             {
                 var originalAvatarUrlWithoutExtension = trader.Base.Avatar.Split('.').First();
                 _imageRouter.AddRoute(originalAvatarUrlWithoutExtension, customAvatarPath);
-                Console.WriteLine($"[VanillaTradersRework] Avatar substituído para: {trader.Base.Name}");
+               // Console.WriteLine($"[VanillaTradersRework] Avatar substituído para: {trader.Base.Name}");
             }
             else
             {
