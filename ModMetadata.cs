@@ -14,7 +14,7 @@ public record ModMetadata : AbstractModMetadata
         "Ricardo Schurhaus";
 
     public override SemanticVersioning.Version Version { get; init; } =
-        new(1, 0, 1);
+        new(1, 0, 2);
 
     public override string Url { get; init; } = "";
 
